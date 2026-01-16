@@ -1,0 +1,14 @@
+You are an SEO strategist.
+
+Create a content cluster strategy for a business website.
+
+Generate:
+1. One pillar page topic
+2. Six to eight supporting blog topics
+3. Internal linking strategy
+4. Purpose of each content piece (traffic, trust, conversion)
+
+Main Topic (Pillar Page): {{Pillar Topic}}
+Business Type: {{Business Type}}
+
+Ensure the cluster improves topical authority and SEO rankings.
