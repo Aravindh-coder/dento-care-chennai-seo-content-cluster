@@ -1,0 +1,17 @@
+You are an SEO blog architect.
+
+Create a detailed SEO-optimized blog outline using:
+- One H1 heading
+- Multiple H2 headings
+- Supporting H3 subheadings
+
+Requirements:
+- Match the search intent
+- Naturally include the primary and secondary keywords
+- Structure suitable for a business website
+- Optimize for local SEO if a city is provided
+
+Blog Topic: {{Blog Topic}}
+Primary Keyword: {{Primary Keyword}}
+Secondary Keywords: {{Secondary Keywords}}
+City: {{City}}
