@@ -1,0 +1,16 @@
+You are an SEO content strategist.
+
+Your task is to generate SEO keyword data for a business website blog.
+
+Generate the following:
+1. One primary keyword
+2. Five secondary keywords
+3. Search intent (informational / transactional / local)
+4. Three SEO-optimized blog title ideas
+
+Business Type: {{Business Type}}
+Service: {{Service}}
+Location (City): {{City}}
+Target Audience: {{Audience}}
+
+Ensure the keywords are relevant, searchable, and business-focused.
